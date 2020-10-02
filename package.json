@@ -1,0 +1,27 @@
+{
+  "name": "infinite-scroll",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@storybook/addon-actions": "^6.0.22",
+    "@storybook/addon-essentials": "^6.0.22",
+    "@storybook/addon-links": "^6.0.22",
+    "@storybook/react": "^6.0.22",
+    "babel-loader": "^8.1.0",
+    "classnames": "^2.2.6",
+    "emotion": "^10.0.27",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-is": "^16.13.1"
+  },
+  "dependencies": {}
+}
